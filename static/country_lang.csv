@@ -1,0 +1,63 @@
+country_name,woeid,country_code,lang
+Algeria,23424740,DZ,ar
+Argentina,23424747,AR,es
+Australia,23424748,AU,en
+Austria,23424750,AT,de
+Bahrain,23424753,BH,ar
+Belarus,23424765,BY,ru
+Belgium,23424757,BE,fr/nl/de
+Brazil,23424768,BR,pt
+Canada,23424775,CA,en/fr
+Chile,23424782,CL,es
+Colombia,23424787,CO,es
+Denmark,23424796,DK,da
+Dominican Republic,23424800,DO,es
+Ecuador,23424801,EC,es
+Egypt,23424802,EG,ar
+France,23424819,FR,fr
+Germany,23424829,DE,de
+Ghana,23424824,GH,en
+Greece,23424833,GR,el
+Guatemala,23424834,GT,es
+India,23424848,IN,hi/en/mr/bn
+Indonesia,23424846,ID,id
+Ireland,23424803,IE,en/ga
+Israel,23424852,IL,he
+Italy,23424853,IT,it
+Japan,23424856,JP,ja
+Jordan,23424860,JO,ar
+Kenya,23424863,KE,en/sw
+Korea,23424868,KR,ko
+Kuwait,23424870,KW,ar
+Latvia,23424874,LV,ru
+Lebanon,23424873,LB,ar
+Malaysia,23424901,MY,msa
+Mexico,23424900,MX,es
+Netherlands,23424909,NL,nl
+New Zealand,23424916,NZ,en
+Nigeria,23424908,NG,en
+Norway,23424910,NO,no
+Oman,23424898,OM,ar
+Pakistan,23424922,PK,ur/en
+Panama,23424924,PA,es
+Peru,23424919,PE,es
+Philippines,23424934,PH,en/fil
+Poland,23424923,PL,pl
+Portugal,23424925,PT,pt
+Puerto Rico,23424935,PR,es
+Qatar,23424930,QA,ar
+Russia,23424936,RU,ru
+Saudi Arabia,23424938,SA,ar
+Singapore,23424948,SG,en/zh-tw/zh-cn/msa/ta
+South Africa,23424942,ZA,en
+Spain,23424950,ES,es/ca
+Sweden,23424954,SE,sv
+Switzerland,23424957,CH,fr/it/de
+Thailand,23424960,TH,th
+Turkey,23424969,TR,tr
+Ukraine,23424976,UA,uk
+United Arab Emirates,23424738,AE,ar
+United Kingdom,23424975,GB,en
+United States,23424977,US,en
+Venezuela,23424982,VE,es
+Vietnam,23424984,VN,vi
