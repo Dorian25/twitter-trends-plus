@@ -16,12 +16,6 @@ from deep_translator import GoogleTranslator
 
 app = Flask(__name__)
 
-API_KEY = "53aHrnIe7eo4J14JOtfpirtTR"
-API_KEY_SECRET = "X92FAXFBCg5koQT5GuKMjB97p4thJpg0QtTkLkDhckpsaS8RJW"
-BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAACxciQEAAAAAJOBtxlSa%2F3MkmNFDQxr6f1%2BDqfk%3DzBo79CCPzjlsKfVTnMPAu1KV8O13bJYddBPb8QZrBJnuFZtIR5"
-ACCESS_TOKEN = "1582483314056863746-IMIW7y8pbeieUWClsbn5WobVhhBEKS"
-ACCESS_TOKEN_SECRET = "q3L2HI1FUy5g0baRNTvx2FrBx0Ip29q5WlCjGY92xSbJM"
-
 # initialize api instance
 consumer_key = os.environ.get("TWITTER_CONSUMER_KEY")
 consumer_secret = os.environ.get("TWITTER_CONSUMER_KEY_SECRET")
