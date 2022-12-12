@@ -301,10 +301,10 @@ def index():
                            "name": trend["name"],
                            "query": trend["query"],
                            "tweet_volume": trend["tweet_volume"],
-                           #"keywords": summerize_trend(trend["name"], lang, popular_tweets),
-                           #"media": media_trend(popular_tweets),
-                           #"sentiment": sentiment_trend(popular_tweets),
-                           #"popular_tweet": popular_tweet_trend(popular_tweets)
+                           "keywords": [], #summerize_trend(trend["name"], lang, popular_tweets),
+                           "media": [], #media_trend(popular_tweets),
+                           "sentiment": [], #sentiment_trend(popular_tweets),
+                           "popular_tweet": [], #popular_tweet_trend(popular_tweets)
                            })
             rank += 1
 
