@@ -302,9 +302,9 @@ def index():
                            "query": trend["query"],
                            "tweet_volume": trend["tweet_volume"],
                            #"keywords": summerize_trend(trend["name"], lang, popular_tweets),
-                           "media": media_trend(popular_tweets),
-                           "sentiment": sentiment_trend(popular_tweets),
-                           "popular_tweet": popular_tweet_trend(popular_tweets)
+                           #"media": media_trend(popular_tweets),
+                           #"sentiment": sentiment_trend(popular_tweets),
+                           #"popular_tweet": popular_tweet_trend(popular_tweets)
                            })
             rank += 1
 
@@ -316,5 +316,5 @@ def index():
 
 
 if __name__ == '__main__':
-    app.run(debug=True, host='localhost', threaded=True)
+    app.run(debug=True, threaded=True)
 
